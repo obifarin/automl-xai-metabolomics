@@ -29,7 +29,7 @@ Note that the autoML models are saved as `askl_17_OC_3600.pkl` and `askl_RCC_600
   </tr>
     <tr>
     <td>automl-SHAP-OC.ipynb</td>
-    <td>Implementation of autosklearn and SHAP for the RCC Dataset.</td>
+    <td>Implementation of autosklearn and SHAP for the OC Dataset.</td>
   </tr>
     <tr>
     <td>OC-model-error-analysis.ipynb</td>
